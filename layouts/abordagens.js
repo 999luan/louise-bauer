@@ -3,9 +3,9 @@ import shortcodes from "@shortcodes/all";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/image";
 
-const About = ({ data }) => {
+const Abordagens = ({ data }) => {
   const { frontmatter, mdxContent } = data;
-  const { title, image, education, experience } = frontmatter;
+  const { title, image, } = frontmatter;
 
   return (
     <section className="section mt-16">
@@ -31,17 +31,7 @@ const About = ({ data }) => {
         <div className="row mt-24 text-left lg:flex-nowrap">
           <div className="lg:w-full ">
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
-              {markdownify(education.title, "h2", "section-title mb-12")}
-              <div className="row">
-                {education.degrees.map((degree, index) => (
-                  <div className="mb-7 md:col-6" key={"degree-" + index}>
-                    <h4 className="text-base lg:text-[25px]">
-                      {degree.university}
-                    </h4>
-                    <p className="mt-2">{degree.content}</p>
-                  </div>
-                ))}
-              </div>
+
             </div>
           </div>
 
@@ -51,4 +41,4 @@ const About = ({ data }) => {
   );
 };
 
-export default About;
+export default Abordagens;

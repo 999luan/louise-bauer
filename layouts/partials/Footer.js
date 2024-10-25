@@ -18,10 +18,8 @@ const Footer = () => {
         fill={true}
       />
       <div className="container text-center">
-        <div className="mb-6 inline-flex">
-          <Logo />
-        </div>
-        {markdownify(footer_content, "p", "max-w-[638px] mx-auto")}
+
+
 
         {/* footer menu */}
         <ul className="mb-12 mt-6 flex-wrap space-x-2 lg:space-x-4">

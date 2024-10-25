@@ -9,16 +9,13 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Abordagens",
+      "url": "/abordagens"
     },
+
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
+      "name": "Artigos",
+      "url": "/posts",
       "hasChildren": true,
       "children": [
         {
@@ -36,14 +33,8 @@
     {
       "name": "About",
       "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "#"
     }
+
+
   ]
 }

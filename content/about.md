@@ -1,36 +1,27 @@
 ---
-title: About The Author
-image: /images/author.png
+title: Psicóloga Clínica Especializada em Terapias Baseadas em Evidências
+image: /images/author.jpeg
 description: "meta description"
 layout: about
 education:
-  title: Formal Education
+  title: Experiência
   degrees:
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Northeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Easteast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"  
-
-experience:
-  title: Work Experience
-  list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
+    - university: "Especializações Acadêmicas"
+      content: "- Especialista em Análise do Comportamento Aplicada (PUC-PR, 2020)."  
+    - university: "Experiência Clínica"
+      content: "Mais de 8 anos de experiência prática em atendimentos clínicos, com foco em tratamentos baseados em evidências científicas."
+    - university: "Abordagem Integrativa baseada em ciência "
+      content: "Integração de três abordagens baseadas em evidências (Análise do Comportamento, Terapia do Esquema e Terapia Cognitivo-Comportamental - TCC)."
+    - university: "Estudos Autodidatas"
+      content: " Iniciei meus estudos em Psicologia com apenas 12 anos, seguido por Neurociências aos 15 anos e Psicofarmacologia aos 17, o que expandiu significativamente minha compreensão sobre os transtornos mentais e seus tratamentos."
+    - university: "Planos de Tratamento Personalizados"
+      content: "Desenvolvo planos de tratamento exclusivos de acordo com a individualidade de cada paciente, com base nas melhores evidências científicas atuais."  
+    - university: "Psicoterapia Online"
+      content: "Atendo pacientes de maneira 100% online, garantindo flexibilidade e acessibilidade, prezando pela manutenção da mesma qualidade técnica e científica que o atendimento presencial oferece."  
+    
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+Sou Psicóloga Clínica especialista em Análise do Comportamento Aplicada (PUC-PR, 2020), com *8 anos e 8 meses de experiência* em atendimentos clínicos. Utilizo uma abordagem integrativa com base em três das mais respeitadas abordagens da Psicologia Baseada em Evidências: Análise do Comportamento, Terapia do Esquema e Terapia Cognitivo-Comportamental (TCC). A minha prática está sempre fundamentada em estudos científicos atualizados, proporcionando *tratamentos personalizados* que atendem às necessidades individuais de cada paciente.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+Além da minha formação acadêmica, iniciei meus estudos em Psicologia de forma autodidata aos 12 anos, motivada por uma curiosidade genuína pela área. Aos 15 anos, comecei a explorar o campo das Neurociências, e com 17, aprofundei meu conhecimento em Psicofarmacologia. Este percurso me permitiu desenvolver uma compreensão profunda dos temas que hoje aplico em minha prática clínica.
