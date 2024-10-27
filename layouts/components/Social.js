@@ -30,6 +30,7 @@ import {
   IoLogoYoutube,
   IoMail,
   IoLogoStackoverflow,
+  IoListCircleOutline,
 } from "react-icons/io5";
 
 const Social = ({ source, className }) => {
@@ -65,6 +66,7 @@ const Social = ({ source, className }) => {
     address,
     skype,
     website,
+    allLink,
   } = source;
   return (
     <ul className={className}>
@@ -427,6 +429,18 @@ const Social = ({ source, className }) => {
             rel="noopener noreferrer nofollow"
           >
             <IoLocation />
+          </a>
+        </li>
+      )}
+      {allLink && (
+        <li className="inline-block">
+          <a
+            aria-label="location"
+            href={allLink}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
+            <IoListCircleOutline  />
           </a>
         </li>
       )}
