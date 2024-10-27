@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Artigos",
+      "name": "Blog",
       "url": "/posts",
       "hasChildren": true,
       "children": [
@@ -31,8 +31,24 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "url": "/about"
+    },
+    {
+      "name": "Abordagens",
+      "url": "/abordagens"
+    },
+
+    {
+      "name": "Blog",
+      "url": "/posts",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Categories",
+          "url": "/categories"
+        }
+      ]
     }
 
 

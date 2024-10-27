@@ -187,7 +187,7 @@ const Sidebar = ({ posts, categories, className }) => {
           <h4 className="section-title">{newsletter.title}</h4>
           <p className="mt-10 text-xs">{newsletter.content}</p>
           <MailchimpSubscribe
-            url={newsletter.malichip_url}
+             url="https://protonmail.us9.list-manage.com/subscribe/post?u=516aac2aa998b13f782f1f243&id=85c9c7e749"
             render={({ subscribe, status, message }) => (
               <CustomForm
                 onValidated={(formData) => subscribe(formData)}
@@ -197,12 +197,12 @@ const Sidebar = ({ posts, categories, className }) => {
             )}
           />
           <p className="text-xs">
-            By Singing Up, You Agree To
+           Ao me inscrever concordo com a
             <Link
               href={newsletter.privacy_policy_page}
               className="ml-1 text-primary"
             >
-              Privacy Policy
+              Politica de privacidade
             </Link>
           </p>
         </div>

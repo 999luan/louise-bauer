@@ -27,11 +27,11 @@ function CustomForm({ status, message, onValidated }) {
           <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75" />
         </fieldset>
         <button className="d-block  btn btn-primary mt-4 w-full" type="submit">
-          Sign In
+          Inscreva-se
         </button>
       </form>
       {status === "sending" && (
-        <div className="mt-4 text-primary">sending...</div>
+        <div className="mt-4 text-primary">Enviando...</div>
       )}
       {status === "error" && (
         <div
@@ -40,7 +40,7 @@ function CustomForm({ status, message, onValidated }) {
         />
       )}
       {status === "success" && (
-        <div className="mt-4 text-green-700">Subscribed !</div>
+        <div className="mt-4 text-green-700">Inscrito com sucesso!</div>
       )}
     </>
   );
