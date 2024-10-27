@@ -7,7 +7,7 @@
     "logo_white": "/images/logo-light.png",
     "logo_width": "150",
     "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_text": "LouiseBauer"
   },
   "settings": {
     "theme_switcher": true,
@@ -54,7 +54,9 @@
   },
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
-    "settings": {}
+    "shortname": "louisebauer",
+    "settings": {
+      "language": "pt_BR"
+    }
   }
 }
